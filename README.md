@@ -13,9 +13,13 @@ Upon selecting the login option, users are redirected through a secure and robus
 Post-login, the web application interacts with the Spotify API, retrieving and populating a comprehensive display of all the user's playlists. This page empowers users to effortlessly peruse and select their desired playlist, subsequently guiding them to the dynamic setlist creation page.
 
 <img width="1437" alt="Screen Shot 2023-05-17 at 2 43 34 PM" src="https://github.com/JaredFunaro/PlaylistsForProducers/assets/117308724/e837fbb9-b6f5-4813-94d0-b5174186e52f">
+<img width="1435" alt="Screen Shot 2023-05-17 at 2 44 00 PM" src="https://github.com/JaredFunaro/PlaylistsForProducers/assets/117308724/6dfd343a-221b-437b-88b5-7b2f97503f46">
 
 
 The set creation page provides users with an array of song information, including tempo (bpm), danceability, popularity, and musical key. Through an intuitive interface, users are empowered to handpick songs to add to their ideal setlist. With a simple click on the "create setlist" button, users are promptly guided to the page showcasing their crafted setlist.
+
+<img width="1436" alt="Screen Shot 2023-05-17 at 2 44 21 PM" src="https://github.com/JaredFunaro/PlaylistsForProducers/assets/117308724/3be00840-bec9-4af5-8212-be7e2d1344c1">
+
 
 I took personal pride in devising a unique formula used in the web application, which evaluates the ease of transitions between songs. This comprehensive algorithm factors in the attributes of each song, such as tempo and key, in order to assess the flow between selections, ultimately enriching the overall cohesion of the setlist.
 
@@ -25,8 +29,8 @@ In summary, this personal project exemplifies my dedication to crafting an excep
 
 
 
-<img width="1435" alt="Screen Shot 2023-05-17 at 2 44 00 PM" src="https://github.com/JaredFunaro/PlaylistsForProducers/assets/117308724/6dfd343a-221b-437b-88b5-7b2f97503f46">
-<img width="1436" alt="Screen Shot 2023-05-17 at 2 44 21 PM" src="https://github.com/JaredFunaro/PlaylistsForProducers/assets/117308724/3be00840-bec9-4af5-8212-be7e2d1344c1">
+
+
 
 
 
